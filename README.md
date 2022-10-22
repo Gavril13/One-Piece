@@ -46,3 +46,6 @@ remarqué qu'il avait pas d'amis ces pour cela qu'il decide a chaque fois de pou
 tout le respect que Luffy leur a doner Sabo et Ace ils decident de l'accepter pour faire des betises ou même ce pretendre être des pirates pour que au 
 final il decide de devenir frère aboptif pour la vie.
 
+**_L'Univers_**
+
+####  Les Différent  types de frui du demon
