@@ -10,9 +10,9 @@ qui sera prevue dans les année 2026.
    * L'Univers du Manga
         * L'Histoire et l'Univers de One Piece
         * Les Différent type de Fruits du demon et leurs effets
-   * L'histoire des personnages principaux                                                                             
-        * Luffy et L'équipage de Luffy et ces different compagnon                                                       
-   * La hiérarchie des grandes puissances                  
+   * Les personnages principaux                                                                             
+        * Luffy et sont L'équipage                                                      
+   * La hiérarchie au sien des grandes puissances                  
         * Les Empereurs
         * La Marine
         * Les Révolutionnaires
@@ -75,6 +75,10 @@ Mais aussi Paramecia Fruits peut modifier le corps de sont l'utilisateur, en lui
 
 **_Les Zoans :_**
 
+
+![.](https://user-images.githubusercontent.com/115543708/197408010-eb72ead7-52a1-4f50-98ba-dddae4f9f405.gif)
+
+
 Les utilisateurs de fruits du demon de type Zoan obtient la capcité de ce transformer en animal ainsi pour ce transformer en forme hybride qui leur permettra de garder 
 leur aparence original en eyant les même atout quand il sont pas en forme hybride.
 
@@ -91,6 +95,8 @@ Zoans les plus puissant comme par exemple le phenix pourra ce regenerer ou meme 
 Le plus rare et le plus puissant des trois types de fruits du demon, les fruits du demon de type Logia donne a leur utilisateur la falculter de contrôler et de 
 transformer leut corps en un élément naturel comme la fumée, le sable, le feu, la foudre, la glace, la lumière, le magma, la neige etc...
 
+![.](https://user-images.githubusercontent.com/115543708/197407864-68e30eb0-ecd1-4ccc-a1cd-59821a980420.gif)
+
 |                  | Nombres de Fruits | 
 | :---------------:| -----------------:|
 | Paramecia        |       134         |                  
@@ -100,7 +106,8 @@ transformer leut corps en un élément naturel comme la fumée, le sable, le feu
 |Total             |       205         |
 
 Fruits du demon naturels:
-Les Fruits du demon ce réincarne lors que son utilisateur meur. Il renait dans un nouveau fruit au lieu de pousser à partir d'une plante d'où sa rareté durant sa réincarnation il va être similaire au fruits autour de lui pour que après il retransforme en fruits du demon en eyant une des formes et des couleur très etranges.
+Les Fruits du demon ce réincarne lors que son utilisateur meur. Il renait dans un nouveau fruit au lieu de pousser à partir d'une plante d'où sa rareté durant sa 
+réincarnation il va être similaire au fruits autour de lui pour que après il retransforme en fruits du demon en eyant une des formes et des couleur très etranges.
 
 ### L'histoire des personnages principaux 
 
@@ -108,24 +115,35 @@ Les Fruits du demon ce réincarne lors que son utilisateur meur. Il renait dans 
 
  ![.](https://user-images.githubusercontent.com/115543708/197394906-e1b0145f-f90f-4e88-93e6-4260750ac6d7.png)
 
-|  | Personnage       | Rôle dans l'équipage |
-| :--------------- |:---------------:| -----:|
-| Luffy  | ![.](https://user-images.githubusercontent.com/115543708/197403778-a5d8c9c5-d5cb-4422-ad8f-f3f26faa208d.png)  |  Aligné à droite |
-| Zoro   | ![.](https://user-images.githubusercontent.com/115543708/197403972-e513410c-8016-4717-984e-5f1370d8a617.png)  |   Aligné à droite  |
-| Nami   | ![.](https://user-images.githubusercontent.com/115543708/197404166-af8637cd-6235-4b33-909c-c88aa43e9ae1.png)  |    Aligné à droite |
-| Usopp  | ![.](https://user-images.githubusercontent.com/115543708/197404313-13b39680-3d20-46f1-ae45-5935dfe0305f.png)  |                    |
-| Sanji  | ![.](https://user-images.githubusercontent.com/115543708/197404467-bdee04d0-aaeb-4603-b82c-bd3ab9a32300.png)  |                    |
-| Robin  | ![.](https://user-images.githubusercontent.com/115543708/197405401-b3d40b75-2d53-4703-96d1-ad38aa04f076.png)  |                    |
-| Chopper| ![.](https://user-images.githubusercontent.com/115543708/197404819-3a4a8745-62b0-466b-ad76-86c37c707ae6.png)  |                    |
-| Franky | ![.](https://user-images.githubusercontent.com/115543708/197404947-f2099f95-8a06-4631-b1bd-df4a73fdea36.png)  |                    |
-| Brook  | ![.](https://user-images.githubusercontent.com/115543708/197405107-8e6a10c4-5cae-4fc7-8687-e54ea2033bfa.png)  |                    |
-|Jinbe   | ![.](https://user-images.githubusercontent.com/115543708/197405197-c03e97a6-8f75-4778-bf5a-1a81275b701c.png)  |                    |
+|  | Personnage       | Rôle dans l'équipage | Leur Capacité |
+| :--------------- |:---------------:| -----:|:-----:|
+| Luffy  | ![.](https://user-images.githubusercontent.com/115543708/197403778-a5d8c9c5-d5cb-4422-ad8f-f3f26faa208d.png)  |  Capitaine | Grâce à son fruit du demon il 
+est devenue un homme elastique avec la possibilité de faire grossir ou allonger ces membres |
+| Zoro   | ![.](https://user-images.githubusercontent.com/115543708/197403972-e513410c-8016-4717-984e-5f1370d8a617.png)  |  Sabreur 2nd de l'équipage | Grâce à ces 
+sabre il peut découper des montagnes avec sa grande force |
+| Nami   | ![.](https://user-images.githubusercontent.com/115543708/197404166-af8637cd-6235-4b33-909c-c88aa43e9ae1.png)  |  Navigatrice | Peut Changer le temps grâce à 
+un baton climatique fabriquer par Usopp |
+| Usopp  | ![.](https://user-images.githubusercontent.com/115543708/197404313-13b39680-3d20-46f1-ae45-5935dfe0305f.png)  |  Tireur d'Élite                 | Peut 
+Projeter ces différentes technique à une très grande distance|
+| Sanji  | ![.](https://user-images.githubusercontent.com/115543708/197404467-bdee04d0-aaeb-4603-b82c-bd3ab9a32300.png)  |  Cuisiner 3nd de l'équipage           | Il 
+possèder une très grande résistance et il peut enflammé ces pied |
+| Robin  | ![.](https://user-images.githubusercontent.com/115543708/197405401-b3d40b75-2d53-4703-96d1-ad38aa04f076.png)  |  L'Archéologue                  | Avec son 
+Fruits du Demon elle peut multiplier et faire grossir ces membres a distance|
+| Chopper| ![.](https://user-images.githubusercontent.com/115543708/197404819-3a4a8745-62b0-466b-ad76-86c37c707ae6.png)  |  Médecin                 | Grâce a son fruit 
+du demon il peut ce transformer en Hybride hummain |
+| Franky | ![.](https://user-images.githubusercontent.com/115543708/197404947-f2099f95-8a06-4631-b1bd-df4a73fdea36.png)  |  Charpentier               |  Avec toutes 
+les connaissance qu'il a acquerir il peut fabriquer n'importe quel technologie|
+| Brook  | ![.](https://user-images.githubusercontent.com/115543708/197405107-8e6a10c4-5cae-4fc7-8687-e54ea2033bfa.png)  |  Musicien                 | Il est très 
+lèger est peut vivre eternelement garce a son fruit du demon qui lui permet de renaitre après sa mort|
+|Jinbe   | ![.](https://user-images.githubusercontent.com/115543708/197405197-c03e97a6-8f75-4778-bf5a-1a81275b701c.png)  |  Timonier                 | Etant un homme 
+poisson il peut vivre sur terre et dans la mer avec une grandes capacité du karaté|
 
 ### La Hiérarchie des grandes puissances :
 
 #### Les Empereurs :
 
-Les Empereurs sont representer comme les 4 plus puissant equipage de pirate qui impose leur autoriter sur les different continent conquit mais aussi ils permettent d'équilibrer les puissance dans le mondes 
+Les Empereurs sont representer comme les 4 plus puissant equipage de pirate qui impose leur autoriter sur les different continent conquit mais aussi ils permettent 
+d'équilibrer les puissance dans le mondes 
 Les 4 Empereur avant l'épisode 1000 de One Piece sont : Barbe Noir, Shanks, Big Mom, Kaido 
 
  ![.](https://user-images.githubusercontent.com/115543708/197399287-887ab451-cac2-4ae9-a6a0-af75d71fbc87.png)
@@ -162,12 +180,14 @@ d'indiquer des emplacement raprocher de l'ile Cacher où il ce trouve le One Pie
 #### Les Armes Antiques :
 
 Dans L'univers actuel il y a 3 Armes Antiques dont une on connais l'existance 
-Les Trois armes antiques sont en lien avec des dieux de la mythologie gréco-romaine comme Poséidon (Neptune) qui est le dieu des océans, ensuite il y a Pluton (Hadès) qui est le dieu des enfers enfin Uranus (Ouranos) dieu du ciel 
+Les Trois armes antiques sont en lien avec des dieux de la mythologie gréco-romaine comme Poséidon (Neptune) qui est le dieu des océans, ensuite il y a Pluton (Hadès) 
+qui est le dieu des enfers enfin Uranus (Ouranos) dieu du ciel 
 
 **_Pluton :_**
 
 Pluton est representer comme un navire de guerre qui peut faire de très grosse destruction, il est le navire le plus redoutable du monde 
-qui a était crée par des habitants de Water Seven, avant ont transmetter au maitre charpentier les construction de pluton mais Franky a décider de les bruler pour éviter que le gouvernement les obtiennents.
+qui a était crée par des habitants de Water Seven, avant ont transmetter au maitre charpentier les construction de pluton mais Franky a décider de les bruler pour 
+éviter que le gouvernement les obtiennents.
 
 **_Uranus :_**
 
@@ -175,5 +195,8 @@ Uranus est l'arme antique la plus rechercher dans ce monde car on a aucune infor
 
 **_Poséidon :_**
 
-Poséidon est la première arme antiques vivante et douvert dans l'oeuvre, Poséidon est representer par la princesse sirène de l'île des Homme-Poissons qui lui permet de parler et de contrôler les Roi des Mers.
+![.](https://user-images.githubusercontent.com/115543708/197408135-9e73fe08-2e30-4a67-8950-fe24e1646eaf.png)
+
+Poséidon est la première arme antiques vivante et douvert dans l'oeuvre, Poséidon est representer par la princesse sirène de l'île des Homme-Poissons qui lui permet de 
+parler et de contrôler les Roi des Mers.
 Ce Pouvoir est très puissant car a lui seul il peut détruire l'univers c'est pour cela qui peut être très dangereux si on l'utilise à une mauvaises fins.
