@@ -10,13 +10,12 @@ qui sera prevue dans les année 2026.
    * L'Univers du Manga
         * L'Histoire et l'Univers de One Piece
         * Les Différent type de Fruits du demon et leurs effets
-   * L'histoire des personnages principaux 
-        * Luffy et L'équipage de Luffy et ces different compagnon                                                            
-   * La hiérarchie des grande puissance
+   * L'histoire des personnages principaux                                                                             
+        * Luffy et L'équipage de Luffy et ces different compagnon                                                       
+   * La hiérarchie des grandes puissances                  
         * Les Empereurs
         * La Marine
         * Les Révolutionnaires
-        * Les 7 Grand Corsaires et Les Supernovas
    * Le But des Pirates
         * Le One Piece
         * Les Armeés Antiques
@@ -58,10 +57,10 @@ Le Seul Moyen de pouvoir acceder a grande ligne sans passer par Calm Belt sont l
 
 #### Les Différents types de fruits du demon
 
-| Paramecia  | Zoan      | Logia | SMILE (Fruit du demon artificiel)|
-| :--------------- |:---------------:| -----:|-----:|
-|  ![.](https://user-images.githubusercontent.com/115543708/197381702-01c88c2e-47ee-4beb-9ab3-6a4f5dd3c544.png) |   ![.](https://user-images.githubusercontent.com/115543708/197382321-f9e437f3-1903-4b54-bb3e-3adc133c0e04.png)   |  ![Mera Mera no Mi](https://user-images.githubusercontent.com/115543708/197381209-b28b4b9a-51ec-497e-b16b-8065d96b9b01.png)|  ![.](https://user-images.githubusercontent.com/115543708/197382543-f17fa18c-d3f3-4d30-b177-122c69152796.png) |
-| Bara Bara no Mi  | Ushi Ushi no Mi |   Mera Mera no Mi |  Le Sourire de Cesar |
+| Paramecia        | Zoan            | Logia             | SMILE (Fruit du demon artificiel)|
+| :--------------- |:---------------:|             -----:|                            -----:|
+|  ![.](https://user-images.githubusercontent.com/115543708/197381702-01c88c2e-47ee-4beb-9ab3-6a4f5dd3c544.png) |   ![.](https://user-images.githubusercontent.com/115543708/197382321-f9e437f3-1903-4b54-bb3e-3adc133c0e04.png)                      |   ![](https://user-images.githubusercontent.com/115543708/197381209-b28b4b9a-51ec-497e-b16b-8065d96b9b01.png)                      |  ![.](https://user-images.githubusercontent.com/115543708/197382543-f17fa18c-d3f3-4d30-b177-122c69152796.png)                      |
+| Bara Bara no Mi  | Ushi Ushi no Mi |   Mera Mera no Mi |              Le Sourire de Cesar |
 
 Tout les Fruits du demon on chacun leur point fort mais aussi leur points faible:
 
@@ -92,6 +91,81 @@ Zoans les plus puissant comme par exemple le phenix pourra ce regenerer ou meme 
 Le plus rare et le plus puissant des trois types de fruits du demon, les fruits du demon de type Logia donne a leur utilisateur la falculter de contrôler et de 
 transformer leut corps en un élément naturel comme la fumée, le sable, le feu, la foudre, la glace, la lumière, le magma, la neige etc...
 
+|                  | Nombres de Fruits | 
+| :---------------:| -----------------:|
+| Paramecia        |       134         |                  
+| Zoan             |       52          |  
+| Logia            |       15          |  
+|Autre             |        4          |
+|Total             |       205         |
+
+Fruits du demon naturels:
+Les Fruits du demon ce réincarne lors que son utilisateur meur. Il renait dans un nouveau fruit au lieu de pousser à partir d'une plante d'où sa rareté durant sa réincarnation il va être similaire au fruits autour de lui pour que après il retransforme en fruits du demon en eyant une des formes et des couleur très etranges.
+
 ### L'histoire des personnages principaux 
 
 #### Luffy et L'équipage de Luffy et ces differents compagnons 
+
+ ![.](https://user-images.githubusercontent.com/115543708/197394906-e1b0145f-f90f-4e88-93e6-4260750ac6d7.png)
+
+
+|  |                Mokey D. Luffy | Roronoa Zoro   | Nami         |        Usopp   | Sanji       | Chopper |  Robin   | Franky | Brook  | Jinbe  |
+|-:|: -----------------------------|:  ------------:|: ------------:|: --------------:|:------------:|:--------:|: --------:|:-------:|:-------:| ------:|
+|Personnages        |   ce texte   |Aligné à droite |         v     |       v         |       v      |     v    |    v      |      v  |    v    | v       |
+|Leurs Rôles        | est          |Aligné à droite |      v        |           v     |       v      |   v      |    v      |  v      |   v     |    v    |
+|Fruit du Demon     | centré       |Aligné à droite |        v      |            v    |          v   |     v    |    v      |     v   |       v |    v    |
+|Leurs Puissance/10 |              |                |       v       |          v      |         v    |      v   |   v       |      v  |     v   |   v     |
+
+### La Hiérarchie des grandes puissances :
+
+#### Les Empereurs :
+
+Les Empereurs sont representer comme les 4 plus puissant equipage de pirate qui impose leur autoriter sur les different continent conquit mais aussi ils permettent d'équilibrer les puissance dans le mondes 
+Les 4 Empereur avant l'épisode 1000 de One Piece sont : Barbe Noir, Shanks, Big Mom, Kaido 
+
+ ![.](https://user-images.githubusercontent.com/115543708/197399287-887ab451-cac2-4ae9-a6a0-af75d71fbc87.png)
+
+
+#### La Marine, Le Gouvernement Modial :
+
+Dans la Marines les plus grandes puissance sont L'amiral en Chef et Les Amiraux et les vise-Amiraux
+tout les personnage possedent ce grade dans la marine sont les pilier de la marine
+Enfin Les différent puissance dans le gouvernement Mondial sont les CP0 qui sont des agent secrets du renseignement 
+parmis tant d'autre qui sont des personnage dont leur puissance nous est pas divulguer
+
+#### Les Révolutionnaire :
+
+Les Révolutionnaire sont representer comme un equipage d'Empereurs avec un dirigent sous le nom de Mokey D. Dragon 
+leur uniques but ces de ralier des pays a leur cause car ces personne on etait rejeter ou même mal traiter 
+Il souhaite faire la guerre au autre nation qui sont en accort avec les Dragons Cellestes 
+(Les personnes qui sont considère comme des dieux sauf qu'il utilise des esclave ou les emprisonner sous la protection 
+du gouvernement modiale)
+
+### Le But Des Pirates :
+
+![.](https://user-images.githubusercontent.com/115543708/197395170-5ab1f5ef-6cd1-49ab-9971-9b5b33c48711.gif)
+
+#### Le One Piece :
+
+Le One Piece est le mythe le plus garder dans l'univers car les seul personnes qui ont découvert ce trésor sont une partie de l'équipage de l'ancien roi des pirates 
+Gol D. Roger qui le cachera sur une île ôu personne peut la trouvers a part ces personne qui ont trouvers les différents Red Poneglyphe qui peuvent être déchifer par 
+très peut de personne dans l'univers le roi des pirates en fessais partie. 
+Les Poneglyphe sont des pierre ou il y a des information sur l'histoire du One Piece ou même les différent Moment important qui ce sont dérouler durant une époque 
+Les Red Poneglyphe il ce trouve dans grande ligne et généralement garder par des empereurs, il y a que 4 Red Poneglyphe dans ce monde, ils sont pour caractéristique 
+d'indiquer des emplacement raprocher de l'ile Cacher où il ce trouve le One Piece mais aussi ils apportent des faits et des verité qui peuvent bouverser l'univers.
+
+#### Les Armes Antiques :
+
+Dans L'univers actuel il y a 3 Armes Antiques dont une on connais l'existance 
+Les Trois armes antiques sont en lien avec des dieux de la mythologie gréco-romaine comme Poséidon (Neptune) qui est le dieu des océans, ensuite il y a Pluton (Hadès) qui est le dieu des enfers enfin Uranus (Ouranos) dieu du ciel 
+
+Pluton
+
+Pluton est un navire de guerre très avancé capable de destruction massive, surnommé le Plus redoutable navire de guerre au monde
+Il a apparemment été créé par les habitants de Water Seven il y a très longtemps. Aujourd'hui à Water Seven se transmet de maître charpentier à disciple les plans de construction de Pluton mais ces derniers se verront brûlés par Franky pour éviter que le gouvernement ne s'en empare.
+
+Uranus est une arme inconnue pour l'instant
+
+Poséidon est une arme antique "vivante". C'est en réalité la princesse sirène de l'île des Hommes-Poissons qui reçoit, une fois tous les quelques siècles, le pouvoir de parler et de contrôler les "Rois des Mers"
+Ce don est le plus dangereux du monde car, dirigé inconsciemment et à de mauvaises fins, cela pourrait causer la destruction du monde par les Rois des Mers
+
