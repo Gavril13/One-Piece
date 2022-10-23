@@ -108,13 +108,18 @@ Les Fruits du demon ce réincarne lors que son utilisateur meur. Il renait dans 
 
  ![.](https://user-images.githubusercontent.com/115543708/197394906-e1b0145f-f90f-4e88-93e6-4260750ac6d7.png)
 
-
-|  |                Mokey D. Luffy | Roronoa Zoro   | Nami         |        Usopp   | Sanji       | Chopper |  Robin   | Franky | Brook  | Jinbe  |
-|-:|: -----------------------------|:  ------------:|: ------------:|: --------------:|:------------:|:--------:|: --------:|:-------:|:-------:| ------:|
-|Personnages        |   ce texte   |Aligné à droite |         v     |       v         |       v      |     v    |    v      |      v  |    v    | v       |
-|Leurs Rôles        | est          |Aligné à droite |      v        |           v     |       v      |   v      |    v      |  v      |   v     |    v    |
-|Fruit du Demon     | centré       |Aligné à droite |        v      |            v    |          v   |     v    |    v      |     v   |       v |    v    |
-|Leurs Puissance/10 |              |                |       v       |          v      |         v    |      v   |   v       |      v  |     v   |   v     |
+|  | Personnage       | Rôle dans l'équipage |
+| :--------------- |:---------------:| -----:|
+| Luffy  | ![.](https://user-images.githubusercontent.com/115543708/197403778-a5d8c9c5-d5cb-4422-ad8f-f3f26faa208d.png)  |  Aligné à droite |
+| Zoro   | ![.](https://user-images.githubusercontent.com/115543708/197403972-e513410c-8016-4717-984e-5f1370d8a617.png)  |   Aligné à droite  |
+| Nami   | ![.](https://user-images.githubusercontent.com/115543708/197404166-af8637cd-6235-4b33-909c-c88aa43e9ae1.png)  |    Aligné à droite |
+| Usopp  | ![.](https://user-images.githubusercontent.com/115543708/197404313-13b39680-3d20-46f1-ae45-5935dfe0305f.png)  |                    |
+| Sanji  | ![.](https://user-images.githubusercontent.com/115543708/197404467-bdee04d0-aaeb-4603-b82c-bd3ab9a32300.png)  |                    |
+| Robin  | ![.](https://user-images.githubusercontent.com/115543708/197405401-b3d40b75-2d53-4703-96d1-ad38aa04f076.png)  |                    |
+| Chopper| ![.](https://user-images.githubusercontent.com/115543708/197404819-3a4a8745-62b0-466b-ad76-86c37c707ae6.png)  |                    |
+| Franky | ![.](https://user-images.githubusercontent.com/115543708/197404947-f2099f95-8a06-4631-b1bd-df4a73fdea36.png)  |                    |
+| Brook  | ![.](https://user-images.githubusercontent.com/115543708/197405107-8e6a10c4-5cae-4fc7-8687-e54ea2033bfa.png)  |                    |
+|Jinbe   | ![.](https://user-images.githubusercontent.com/115543708/197405197-c03e97a6-8f75-4778-bf5a-1a81275b701c.png)  |                    |
 
 ### La Hiérarchie des grandes puissances :
 
@@ -159,13 +164,16 @@ d'indiquer des emplacement raprocher de l'ile Cacher où il ce trouve le One Pie
 Dans L'univers actuel il y a 3 Armes Antiques dont une on connais l'existance 
 Les Trois armes antiques sont en lien avec des dieux de la mythologie gréco-romaine comme Poséidon (Neptune) qui est le dieu des océans, ensuite il y a Pluton (Hadès) qui est le dieu des enfers enfin Uranus (Ouranos) dieu du ciel 
 
-Pluton
+**_Pluton :_**
 
-Pluton est un navire de guerre très avancé capable de destruction massive, surnommé le Plus redoutable navire de guerre au monde
-Il a apparemment été créé par les habitants de Water Seven il y a très longtemps. Aujourd'hui à Water Seven se transmet de maître charpentier à disciple les plans de construction de Pluton mais ces derniers se verront brûlés par Franky pour éviter que le gouvernement ne s'en empare.
+Pluton est representer comme un navire de guerre qui peut faire de très grosse destruction, il est le navire le plus redoutable du monde 
+qui a était crée par des habitants de Water Seven, avant ont transmetter au maitre charpentier les construction de pluton mais Franky a décider de les bruler pour éviter que le gouvernement les obtiennents.
 
-Uranus est une arme inconnue pour l'instant
+**_Uranus :_**
 
-Poséidon est une arme antique "vivante". C'est en réalité la princesse sirène de l'île des Hommes-Poissons qui reçoit, une fois tous les quelques siècles, le pouvoir de parler et de contrôler les "Rois des Mers"
-Ce don est le plus dangereux du monde car, dirigé inconsciemment et à de mauvaises fins, cela pourrait causer la destruction du monde par les Rois des Mers
+Uranus est l'arme antique la plus rechercher dans ce monde car on a aucune information sur l'arme ce qui reste un très grand secret de cette univers.
 
+**_Poséidon :_**
+
+Poséidon est la première arme antiques vivante et douvert dans l'oeuvre, Poséidon est representer par la princesse sirène de l'île des Homme-Poissons qui lui permet de parler et de contrôler les Roi des Mers.
+Ce Pouvoir est très puissant car a lui seul il peut détruire l'univers c'est pour cela qui peut être très dangereux si on l'utilise à une mauvaises fins.
