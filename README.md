@@ -6,21 +6,19 @@ OnePiece est l'histoire de Luffy est le personnage principal du manga à succès
 
    * L'Univers du Manga
         * L'Histoire et l'Univers de One Piece
-        * Les Différent type de Fruits du demon
+        * Les Différent type de Fruits du demon et leurs effets
         * Les Differentes puissance dans le monde 
         * Les Different Haki
-        * Signification des drapeaux , la lettre D
    * L'histoire des personnages principaux 
-        * Luffy 
-        * L'équipage de Luffy et ces different compagnon
+        * Luffy et L'équipage de Luffy et ces different compagnon
    * La hiérarchie des grande puissance
-        * Les Empereur
+        * Les Empereurs
         * La Marine
-        * Les Révolutionnaire
-        * Les 7 Grand Corsaire et Les Supernovas
+        * Les Révolutionnaires
+        * Les 7 Grand Corsaires et Les Supernovas
    * Le But des Pirates
         * Le One Piece
-        * Les Armeé Antique
+        * Les Armeés Antiques
         
         
 ### L'Univers du Manga
@@ -28,11 +26,11 @@ OnePiece est l'histoire de Luffy est le personnage principal du manga à succès
 #### L'Histoire et L'Univers de One Piece
 
 **_L'Histoire_**
--Tout d'abord c'est l'histoire d'un garçon sous le nom de Monkey D. Luffy ![.](https://user-images.githubusercontent.com/115543708/197363067-5f2b49a1-cdcb-42a5-b729-76bcfe0e87fb.png)                                                                                      
-Luffy durant le début de son enfance dans son village natal,il avait l'habitude d'aller dans un bar où ils connaisent tout les habituers du village il fait la 
-decourvert un pirate renomer qui admirer et respecter Shanks le Roux.                                                                                                   
-Shanks lui raconta ces aventures grâce a cela le hero de l'oeuvre de OnePiece c'est fixer comme but de devenir un très grand pirate, suite a cela Luffy a découvert  
-un petit coffre ramenée par Shanks avec un fruit très special.
+-Tout d'abord c'est l'histoire d'un garçon sous le nom de Monkey D. Luffy ![.](https://user-images.githubusercontent.com/115543708/197363067-5f2b49a1-cdcb-42a5-b729-76bcfe0e87fb.png=150x100)                                                                                      
+Luffy durant le début de son enfance dans son village natal,
+il était l'habituer d'aller dans un bar où ils connaisent tout les habituers du village
+Luffy fait la decourvert un pirate renomer qui admirer et respecter Shanks le Roux.                                                                                      Shanks lui raconta ces aventures grâce a cela que Luffy c'est fixer comme but de devenir un très grand pirate,
+suite a cela Luffy a découvert un petit coffre ramenée par Shanks avec un fruit très special.
 Luffy en sachant pas ce qui avais dedans il decide de l'ouvrir en mangant le fruit peut après l'équipage de Shanks et Luffy ce sont rendu compte qu'il 
 avait manger un fruit du demon ce qui lui donnera des pouvoir surnaturel mais il perdra la falculter de nager.
 
@@ -48,4 +46,34 @@ final il decide de devenir frère aboptif pour la vie.
 
 **_L'Univers_**
 
-####  Les Différent  types de frui du demon
+#### Les Différents types de fruits du demon
+
+| Paramecia  | Zoan      | Logia | SMILE (Fruit du demon artificiel)|
+| :--------------- |:---------------:| -----:|-----:|
+|  ![.](https://user-images.githubusercontent.com/115543708/197381702-01c88c2e-47ee-4beb-9ab3-6a4f5dd3c544.png) |   ![.](https://user-images.githubusercontent.com/115543708/197382321-f9e437f3-1903-4b54-bb3e-3adc133c0e04.png)   |  ![Mera Mera no Mi](https://user-images.githubusercontent.com/115543708/197381209-b28b4b9a-51ec-497e-b16b-8065d96b9b01.png)|  ![.](https://user-images.githubusercontent.com/115543708/197382543-f17fa18c-d3f3-4d30-b177-122c69152796.png) |
+| Bara Bara no Mi  | Ushi Ushi no Mi |   Mera Mera no Mi |  Le Sourire de Cesar |
+
+Tout les Fruits du demon on chacun leur point fort mais aussi leur points faible:
+
+Tout les types de fruit du demon sont sensible a l'eau ce qui est très embétant car l'univers est constituer à plus de 80 % d'eau
+
+**_Les Paramecias :_** 
+
+Le Parameica est le plus courant des trois type de fruits du demon, les fruits du demon de type Paramecia donne à leurs utilisateurs des pouvoirs surhumains autres que la capacité de se transformer en animaux ou en éléments naturels.
+Les differents pouvoirs qui peut posseder sont la génération d'ondes de choc, devenir un homme elastique ou même faire des tremblement de terre etc...
+Mais aussi Paramecia Fruits peut modifier le corps de sont l'utilisateur, en lui donnant un corps en lames ou sinon la possibiliter de ce diviser.
+
+**_Les Zoans :_**
+
+Les utilisateurs de fruits du demon de type Zoan obtient la capcité de ce transformer en animal ainsi pour ce transformer en forme hybride qui leur permettra de garder leur aparence original en eyant les même atout quand il sont pas en forme hybride.
+
+Parmis les Zoans il y a different raretée
+
+Les Zoans Ancients - Ces Fruits permettent à l'utilisateur de se transformer en une espèce disparue comme les dinosaures ce qui leur permettra d'aquerir une plus grande puissance que les Zoans ordinaires.
+
+Les Zoans Mythiques - Ces Fruits du Demon permet à son utilisateur de ce transformer en une créature mythologiques comme le dragon ou un phenix qui seront les Zoans les plus puissant comme par exemple le phenix pourra ce regenerer ou meme le dragon aura une énorme résistance.
+
+**_Les Logias :_**
+
+Le plus rare et le plus puissant des trois types de fruits du demon, les fruits du demon de type Logia donne a leur utilisateur la falculter de contrôler et de transformer leut corps en un élément naturel comme la fumée, le sable, le feu, la foudre, la glace, la lumière, le magma, la neige etc...
+
